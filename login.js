@@ -5,7 +5,7 @@ function fazerLoginComToken() {
 ';
 
   // URL de login
-  const url = 'https://ormusmarket.com/login';
+  const url = 'https://ormus.com/login';
 
   // Configuração da requisição POST
   const requestOptions = {
